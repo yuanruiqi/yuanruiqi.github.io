@@ -67,7 +67,3 @@ I'm a 13-year-old junior high school student. The interest in computers has led 
 - [![](https://cfrating.baoshuo.dev/rating?username=yuanruiqi)](https://codeforces.com/profile/yuanruiqi)
 
 - [![](https://atrating.baoshuo.dev/rating?username=yuanruiqi)](https://atcoder.jp/users/yuanruiqi)
-
-- [Luogu](https://www.luogu.com.cn/user/706028)
-
-![](https://luogu.api.baoshuo.dev/practice?id=706028)
